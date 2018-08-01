@@ -1,4 +1,4 @@
-package recursion;
+package recursion01;
 
 	//recursion은 항상 무한루프에 빠질까? ==>X
 public class Code02 {
