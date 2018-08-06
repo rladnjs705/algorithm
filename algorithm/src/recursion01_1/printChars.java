@@ -1,4 +1,4 @@
-package recursion02;
+package recursion01_1;
 
 public class printChars {
 	public static void printChars(String str) {

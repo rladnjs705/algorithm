@@ -1,4 +1,4 @@
-package recursion02;
+package recursion01_1;
 
 import java.util.Scanner;
 
